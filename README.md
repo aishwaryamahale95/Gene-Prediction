@@ -1,15 +1,5 @@
 # Team2-GenePrediction
 
-The Genome Prediction group members for Team 2 are:
-* Mahale Aishwarya
-* Rachel Calder
-* Ravindra Raju Dinesh
-* Gabe DuBose
-* Howard Page
-* Bhattaram Swethasree
-* Zheying Xu
-* Nate Lee
-
 # Gene Prediction
 ## Pipeline overview
 Gene prediction was performed using the combination of GeneMarkS-2 and Prokka. Users have the option to run Prokka or GMS2 individually or to run them together and combine the output. Running Prokka or the combination of Prokka and GMS2 will predict ncRNAs as well as coding sequences. However, running just GMS2 will return coding sequences.
